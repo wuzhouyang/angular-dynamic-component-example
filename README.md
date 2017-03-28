@@ -1,6 +1,6 @@
-# 动态加载（创建）组件例子   
+## 动态加载（创建）组件例子   
 
-简述文章链接：http://www.jianshu.com/p/10feab2c3102    
+简书文章链接：http://www.jianshu.com/p/10feab2c3102    
 
 ## usage of command line 命令行用法
 > `npm install`   
